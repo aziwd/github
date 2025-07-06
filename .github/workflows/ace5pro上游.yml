@@ -42,7 +42,7 @@ on:
         default: false
         type: boolean
       sukisu_tag:
-        description: "自定义版本来源后缀（如:见清）"
+        description: "自定义版本来源后缀（如:憨憨）"
         required: false
         default: "ikun"
         
